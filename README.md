@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vue 3 Authentication with JWT, Vuex and Vue Router
 
 ## Flow for User Registration and User Login
@@ -89,3 +90,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# SIA
+>>>>>>> origin/main
